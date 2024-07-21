@@ -1,0 +1,6 @@
+- name: ABCT-COMP-BCCWJ_0001
+  source: BCCWJ DVD03
+  creation-date: 2024-07-21
+  obfuscated: true
+  annotators:
+    - Takayuki Amamoto
